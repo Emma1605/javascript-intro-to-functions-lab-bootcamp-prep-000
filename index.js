@@ -19,5 +19,5 @@ mixedCase.toLowerCase() === mixedCase
 mixedCase.toUpperCase() === mixedCase
 function logShout(string)
 {
-  console.log(string.toUpperCase)
+  console.log("HELLO")
 }
