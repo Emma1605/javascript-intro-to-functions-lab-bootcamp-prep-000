@@ -19,3 +19,7 @@ function logWhisper(string)
     if(string=== "hello"){return "I can\'t hear you!";}
    if(string=== "HELLO"){return "YES INDEED!";}
   }
+  function sayHiToGrandma(string)
+  {
+    if(string=== "I love you, Grandma"){return "I love you, too"}
+  }
